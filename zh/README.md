@@ -6,7 +6,7 @@
 
 本指南介绍了如下内容：
 
-* Get a [minimum developer setup](setup/config_initial.md), [build PX4 from source](setup/building_px4.md) and deploy on [numerous supported autopilots](https://docs.px4.io/master/en/flight_controller/).
+* 知道 [开发者最简配置](setup/config_initial.md), [生成PX4](setup/building_px4.md) 并部署到 [一些已支持的飞行器上](https://docs.px4.io/master/en/flight_controller/).
 * 理解 [PX4 系统架构](concept/architecture.md) 以及核心概念。
 * 学习如何更改飞行栈及中间层： 
   * 更改飞行算法和添加新的 [飞行模式](concept/flight_modes.md)。
@@ -19,9 +19,9 @@
 
 ## 支持 {#support}
 
-[Support](contribute/support.md) provide links to the [discussion boards](http://discuss.px4.io/) and other support channels.
+[Support](contribute/support.md) 提供链接到 [论坛](http://discuss.px4.io/) 和一些其他提供支持的频道。
 
-> **Tip** The [Weekly Dev Call](contribute/dev_call.md) is another great opportunity to meet the PX4 dev team and discuss platform technical details, pull requests, major impacting issues etc. There is also time for Q&A.
+> **Tip**[开发者周会](contribute/dev_call.md) 是另一个与PX4 开发团队讨论的好机会。
 
 ## 贡献
 
@@ -33,7 +33,7 @@ The code is free to use and modify under terms of the permissive [BSD 3-clause l
 
 ## 翻译
 
-There are Chinese and Korean [translations](contribute/docs.md#translation) of this guide. You can access these by clicking the language-switcher icon:
+开发手册已经有了中文和韩文的 [翻译版本](contribute/docs.md#translation)。 通过点击以下语言按钮切换语言:
 
 ![Gitbook Language Selector](../assets/gitbook/gitbook_language_selector.png)
 
